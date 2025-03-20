@@ -1,5 +1,5 @@
 {
-    "name": "tonysm/rich-text-laravel",
+    "name": "typicms/rich-text-laravel",
     "description": "Integrates Trix content with Laravel",
     "keywords": [
         "laravel",
