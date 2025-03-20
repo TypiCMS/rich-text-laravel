@@ -12,6 +12,9 @@ class RichText extends Model
     protected $fillable = [
         'field',
         'body',
+        'locale',
+        'record_type',
+        'record_id',
     ];
 
     protected $casts = [
